@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.btn {
+  margin: 5px 0;
+  padding: 10px;
+  font-size: 1.5rem;
+  border: 0;
+  box-shadow: 0 8px 6px -6px #bdbdbd;
+  cursor: pointer;
+}
+
+.show-portal {
+  background: #673ab7;
+  color: #fff;
+}
